@@ -1,0 +1,1 @@
+This repository consistes of Inheritance codes in C++ and JAVA 
